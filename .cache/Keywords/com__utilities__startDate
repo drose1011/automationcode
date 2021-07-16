@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "C5797C87E0A36770B3EB1D1765FBD464",
+  "keywordClasses": [
+    {
+      "name": "com.utilities.startDate",
+      "keywordMethods": [
+        {
+          "name": "startDateObj",
+          "parameters": [
+            {
+              "name": "xpath",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
